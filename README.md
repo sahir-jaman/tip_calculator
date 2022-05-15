@@ -1,4 +1,4 @@
-# flutter_application_1
+# Tip Calculator
 
 A new Flutter project.
 
